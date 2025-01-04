@@ -579,9 +579,7 @@ fill: #f4f4fd;;
 
 /* #region SECTION 3 */
 
-.container-team {
-align-items: center;
-justify-content: center;
+.containerteam {
 
 }
 
@@ -670,10 +668,6 @@ justify-content: center;
  .link-icons:focus {
      background-color: #404BBF;
  }
-
-  @media screen and (min-width: 320px) {
-
-  }
 
  @media screen and (min-width: 768px) {
 .spisok-tri {
