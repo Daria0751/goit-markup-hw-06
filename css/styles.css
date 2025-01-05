@@ -983,10 +983,6 @@ padding-bottom: 72px;
     justify-content: center;
         }
 
-    .logo-footer {
-
-        }
-
 .container-footertwo {
    align-items: center;
    justify-content: center;
@@ -998,10 +994,6 @@ text-align: left;
 
 /* #region footer tablet */
 @media screen and (min-width: 768px) {
-
-.footer {
-
-    }
 
 .footcont {
 display: flex;
@@ -1032,6 +1024,7 @@ padding: 0;
 /* #endregion */
 
     /* #region footer desktop */
+
 @media screen and (min-width: 1158px) {
     .footcont {
         display: flex;
@@ -1071,8 +1064,6 @@ padding-right: 80px;
         fill: #f4f4fd;
     }
 
-    .footer-to-modal {}
-
     .text-subcribe {
         font-weight: 500;
         font-size: 16px;
@@ -1089,8 +1080,6 @@ padding-right: 80px;
         gap: 24px;
 
     }
-
-    .ladel-footer {}
 
     .input-btn {
         display: flex;
@@ -1122,7 +1111,6 @@ padding-right: 80px;
         display: flex;
         justify-content: center;
         align-items: center;
-        font-family: "Roboto", sans-serif font-size: 16px;
         font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.04em;
@@ -1139,6 +1127,7 @@ padding-right: 80px;
         background: 404BBF;
     }
 }
+
 /* #endregion footer desktop */
 /* #endregion */
 
